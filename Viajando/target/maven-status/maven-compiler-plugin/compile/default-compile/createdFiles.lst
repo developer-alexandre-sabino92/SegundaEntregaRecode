@@ -1,0 +1,5 @@
+com\mycompany\viajando\Viajando.class
+connection\ConnectionMySQL.class
+model\PacoteViagem.class
+model\Cliente.class
+model\Compra.class
